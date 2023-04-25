@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Compiled class file
 *.class
 
@@ -54,4 +54,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
->>>>>>> version-control
+
